@@ -1,0 +1,246 @@
+{
+  "company": {
+    "name": "Earn and Help Investment Fund",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [],
+  "callToAction": {
+    "text": "Rejestr",
+    "texts": {
+      "PL": "Rejestr",
+      "EN": "Register",
+      "RU": "Регистрация"
+    },
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Inwestujemy razem",
+    "titles": {
+      "PL": "Inwestujemy razem",
+      "EN": "Invest together",
+      "RU": "Инвестируйте с нами"
+    },
+    "subtitle": "w przyszłość Polski!",
+    "subtitles": {
+      "PL": "w przyszłość Polski!",
+      "EN": " in Poland future!",
+      "RU": " в будущее Польши!"
+    },
+    "description": "Polska musi stać się bardziej stabilna i innowacyjna, a do tego potrzebna jest poświęcenie, cierpliwość i inwestycje kapitałowe. Jednak głównymi siłami napędowymi tego procesu są przedsiębiorcy, którzy posiadają naprawdę perspektywiczne plany na przyszłość naszego kraju. My, Earn and Help Investment Fund - wpływowi inwestorzy, jesteśmy gotowi finansować te wspaniałe projekty i uczynić jutro możliwym. Cieszymy się z naszego spotkania.",
+    "descriptions": {
+      "PL": "Polska musi stać się bardziej stabilna i innowacyjna, a do tego potrzebna jest poświęcenie, cierpliwość i inwestycje kapitałowe. Jednak głównymi siłami napędowymi tego procesu są przedsiębiorcy, którzy posiadają naprawdę perspektywiczne plany na przyszłość naszego kraju. My, Earn and Help Investment Fund - wpływowi inwestorzy, jesteśmy gotowi finansować te wspaniałe projekty i uczynić jutro możliwym. Cieszymy się z naszego spotkania.",
+      "EN": "Poland needs to become more stable and innovative, and this requires dedication, patience and capital investment. However, the main drivers of this process are entrepreneurs who have really promising plans for the future of our country. We, the Earn and Help Investment Fund - influential investors, are ready to finance these great projects and make tomorrow possible. We are happy about our meeting.",
+      "RU": "Польше необходимо стать более стабильной и инновационной, а для этого требуются самоотверженность, терпение и капитальные вложения. Однако главными драйверами этого процесса являются предприниматели, имеющие действительно многообещающие планы на будущее нашей страны. Мы, Earn and Help Investment Fund - влиятельные инвесторы, готовы финансировать эти великие проекты и сделать завтрашний день возможным. Мы рады нашей встрече."
+    },
+    "img": "/assets/images/warsaw2.png",
+    "primaryAction": {
+      "texts": {
+        "PL": "Rejestr",
+        "EN": "Register",
+        "RU": "Регистрация"
+      },
+      "text": "Rejestr",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "texts": {
+        "PL": "Wyślij do nas e-mail",
+        "EN": "Email to us",
+        "RU": "Напишите нам"
+      },
+      "text": "Wyślij do nas e-mail",
+      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+    }
+  },
+  "features": {
+    "title": "",
+    "subtitle": "Nasi partnerzy",
+    "subtitles": {
+      "PL": "Nasi partnerzy",
+      "EN": "Our partners",
+      "RU": "Наши партнеры"
+    },
+    "description": "Nasza firma jest dumna z tego, że współpracujemy z najlepszymi partnerami w dziedzinie inwestycji, budownictwa, nieruchomości i produkcji. Pracujemy tylko z sprawdzonymi i niezawodnymi firmami, które dzielą nasze wartości i dążą do osiągnięcia wysokich wyników.",
+    "descriptions": {
+      "PL": "Nasza firma jest dumna z tego, że współpracujemy z najlepszymi partnerami w dziedzinach inwestycji, budownictwa, nieruchomości i produkcji. Pracujemy tylko z sprawdzonymi i niezawodnymi firmami, które dzielą nasze wartości i dążą do osiągnięcia wysokich wyników.",
+      "EN": "Our company is proud to work with the best partners in the fields of investment, construction, real estate, and production. We only collaborate with proven and reliable companies that share our values and strive for high results.",
+      "RU": "Наша компания гордится тем, что сотрудничает с лучшими партнерами в области инвестиций, строительства, недвижимости и производства. Мы работаем только с проверенными и надежными компаниями, которые разделяют наши ценности и стремятся к достижению высоких результатов."
+    },
+    "items": [
+      {
+        "name": "FTSE Global",
+        "description": "",
+        "icon": "/assets/images/partners/logo-vanguard-ship.svg"
+      },
+      {
+        "name": "Tilbury douglas",
+        "description": "",
+        "icon": "/assets/images/partners/td-logo-1024x262.png"
+      },
+      {
+        "name": "Holcim",
+        "description": "",
+        "icon": "/assets/images/partners/holcim_logo_color.svg"
+      },
+      {
+        "name": "Market Építő Zrt.",
+        "description": "",
+        "icon": "/assets/images/partners/market_logo.png"
+      },
+      {
+        "name": "COLAS",
+        "description": "",
+        "icon": "/assets/images/partners/colas-alap.webp"
+      },
+      {
+        "name": "KGAL",
+        "description": "",
+        "icon": "/assets/images/partners/csm_logo.png"
+      },
+      {
+        "name": "Dabur India Limited",
+        "description": "",
+        "icon": "/assets/images/partners/dabur.png"
+      }
+    ]
+  },
+  "rules": {
+    "PL": "Nasz fundusz oferuje tygodniowe wypłaty odsetek od twojego depozytu. Rozpoczynasz z oprocentowaniem 10%, a każdy nowy inwestor w twojej gałęzi począwszy od jedenastego dodaje dodatkowe 1%, aż do maksymalnej wartości 25%. Dodatkowo otrzymasz dodatkowe 4%, jeśli każda z twoich gałęzi przyciągnie ponad 1000 euro inwestycji.",
+    "EN": "Our fund offers weekly interest payments on your deposit. You start with a 10% interest rate and each new investor in your branch starting from the 11th adds an additional 1% up to a maximum of 25%. Additionally, you will receive an extra 4% if each of your branches brings in more than 1000 euros in investment.",
+    "RU": "Наш фонд предлагает еженедельные выплаты процентов по вашему вкладу. Начальный процент составляет 10%, а каждый новый инвестор в вашей ветке начиная с 11го добавляет еще 1% до максимального предела в 25%. Кроме того, вы получите дополнительные 4% процента, если каждая из ваших веток привлечет более 1000 евро инвестиций."
+  },
+  "locale": {
+    "amount": {
+      "PL": "Suma",
+      "EN": "Amount",
+      "RU": "Сумма"
+    },
+    "hello": {
+      "PL": "Cześć",
+      "EN": "Hello",
+      "RU": "Здравствуйте"
+    },
+    "cancel": {
+      "PL": "Anulować",
+      "EN": "Cancel",
+      "RU": "Отмена"
+    },
+    "close": {
+      "PL": "",
+      "EN": "",
+      "RU": ""
+    },
+    "logout": {
+      "PL": "Wyjście",
+      "EN": "Log out",
+      "RU": "Выход"
+    },
+    "fundings": {
+      "titles": {
+        "PL": "Moje inwestycje",
+        "EN": "My investments",
+        "RU": "Мои инвестиции"
+      },
+      "action": {
+        "PL": "Inwestować",
+        "EN": "Invest",
+        "RU": "Проинвестировать"
+      },
+      "dialog": {
+        "titles": {
+          "PL": "Nowa inwestycja",
+          "EN": "New investment",
+          "RU": "Новая инвестиция"
+        },
+        "texts": {
+          "PL": "Wybierz kryptowalutę i wskaż kwotę do zainwestowania. Wymagania dotyczące zdeponowania środków staną się dostępne jakiś czas po umieszczeniu",
+          "EN": "Please select a cryptocurrency and indicate the amount to be invested. Requisites for depositing funds will become available some time after placement.",
+          "RU": "Пожалуйста выберите криптовалюту и укажите инвестируемую сумму. Реквизиты на внесение средств станут доступны через некоторое время после размещения."
+        },
+        "actions": {
+          "PL": "Umieść inwestycję",
+          "EN": "Place an investment",
+          "RU": "Разместить инвестицию"
+        }
+      }
+    },
+    "status": {
+      "titles": {
+        "PL": "Mój status",
+        "EN": "My status",
+        "RU": "Мой статус"
+      },
+      "balance": {
+        "PL": "Balansować",
+        "EN": "Balance",
+        "RU": "Баланс"
+      },
+      "branches": {
+        "PL": "Razem oddziałów",
+        "EN": "Total branches",
+        "RU": "Всего веток"
+      },
+      "extra": {
+        "PL": "Ponad 1000",
+        "EN": "More than 1000",
+        "RU": "Больше 1000"
+      },
+      "percent": {
+        "PL": "Odsetek",
+        "EN": "Percentage",
+        "RU": "Процент"
+      },
+      "profit": {
+        "PL": "Zysk",
+        "EN": "Profit",
+        "RU": "Прибыль"
+      },
+      "payout": {
+        "PL": "Dni do wypłaty",
+        "EN": "Days to payout",
+        "RU": "Дней до выплаты"
+      },
+      "action": {
+        "PL": "Zamów wypłatę",
+        "EN": "Order a payout",
+        "RU": "Заказать выплату"
+      }
+    },
+    "branches": {
+      "titles": {
+        "PL": "Moje gałęzie",
+        "EN": "My branches",
+        "RU": "Мои ветки"
+      }
+    },
+    "referals": {
+      "titles": {
+        "PL": "Zaproszenia",
+        "EN": "Invitations",
+        "RU": "Приглашения"
+      },
+      "action": {
+        "PL": "Zaproś inwestora",
+        "EN": "Invite an investor",
+        "RU": "Пригласить инвестора"
+      },
+      "dialog": {
+        "titles": {
+          "PL": "Zaproś inwestora",
+          "EN": "Invite an investor",
+          "RU": "Пригласить инвестора"
+        },
+        "texts": {
+          "PL": "Wysyłaj zaproszenia do inwestorów pocztą elektroniczną. Twórz niezawodne oddziały i rozwijaj swój status.",
+          "EN": "Send invitations to investors by email. Create reliable branches and develop your status.",
+          "RU": "Разошлите приглашения инвесторам по email. Создавайте надёжные ветки и развивайте свой статус."
+        },
+        "actions": {
+          "PL": "Zapraszać",
+          "EN": "Invite",
+          "RU": "Пригласить"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  --color-primary: #57ec47;
+  --color-secondary: #20965f;
+  --color-tertiaty: #99a0a3;
+}
+
+a { 
+  @apply text-red-700;
+}
+
+a:hover {
+  @apply border-b-2 border-red-700;
+}
+
+
+
+.content p {
+  @apply my-6;
+}
+
+.content ul {
+  @apply my-6;
+}
+
+#canvas {
+  top: 160px;
+  z-index: 25;
+  pointer-events: none;
+  transform: scaleY(-2.5);
+  mix-blend-mode: plus-lighter;
+  position: absolute;
+  filter: brightness(1.5) blur(10px) contrast(3.5);
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.RML-login-modal-wrap {
+  z-index: 90 !important;
+}
